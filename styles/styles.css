@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid red;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: ;
+    
+}
+
+.fav {
+    width: 100px;
+    height: 100px;
+}
